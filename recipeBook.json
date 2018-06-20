@@ -1,24 +1,6 @@
 {
 	"recipe": [
 		{
-			"image": "https://cdn.rawgit.com/jwass91/mavo-recipe-book/0068230e2dfd3043231798760950ba2e9bd9813c/images/FNM-090111_WN-Dinners-037_s4x3.jpg.rend.hgtvcom.616.462.jpg",
-			"title": "Tomato Salad",
-			"tag": [
-				"Salad",
-				"Test",
-				"HELLO"
-			],
-			"ingredient": [
-				"1 1/2 pounds mixed tomatoes",
-				"3 tablespoons balsamic vinegar",
-				"2 teaspoons brown sugar",
-				"2 tablespoons olive oil"
-			],
-			"step": [
-				"Cut 1 1/2 pounds mixed tomatoes into wedges; season with salt and pepper. Cook 3 tablespoons balsamic vinegar and 2 teaspoons brown sugar in a small skillet over medium heat until reduced by half, about 3 minutes; remove from the heat and whisk in 2 tablespoons olive oil. Drizzle over the tomatoes; top with snipped chives and basil."
-			]
-		},
-		{
 			"image": "https://cdn.rawgit.com/jwass91/mavo-recipe-book/301be22f07471dfaaeef453df1efe5d625c60f6b/images/WU0306H_perfect-french-fries_s4x3.jpg.rend.hgtvcom.616.462.jpg",
 			"title": "Perfect French Fries",
 			"tag": [
