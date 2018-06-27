@@ -3,6 +3,10 @@
 		{
 			"url": "https://cdn.rawgit.com/jwass91/mavo-recipe-book/306b9374804c9b3985e9ac9cb9d4e187582a0040/files/Screen%20Shot%202018-06-27%20at%2010.39.59%20AM.png",
 			"filename": "test file"
+		},
+		{
+			"url": "https://cdn.rawgit.com/jwass91/mavo-recipe-book/7a7fe1d4f0523b7042af5c4e11da43d22b11bdb6/files/“Money%20is%20life”-3.pdf",
+			"filename": "other kind"
 		}
 	]
 }
