@@ -1,8 +1,11 @@
 {
 	"t": [
-		{},
 		{
-			"href": "https://cdn.rawgit.com/jwass91/mavo-recipe-book/bcc04f22c623a69b5108997d50ec56d37b8d6906/files/mavoGithubBackend.rtf"
+			"filename": "test"
+		},
+		{
+			"href": "https://cdn.rawgit.com/jwass91/mavo-recipe-book/bcc04f22c623a69b5108997d50ec56d37b8d6906/files/mavoGithubBackend.rtf",
+			"filename": "test2"
 		}
 	]
 }
