@@ -1,20 +1,3 @@
 {
-	"t": [
-		{
-			"filename": "test",
-			"href": "https://cdn.rawgit.com/jwass91/mavo-recipe-book/26467efd16d85bd2a0751565d1856f35d84e3235/files/cal.csv"
-		},
-		{
-			"href": "https://cdn.rawgit.com/jwass91/mavo-recipe-book/bcc04f22c623a69b5108997d50ec56d37b8d6906/files/mavoGithubBackend.rtf",
-			"filename": "test2"
-		},
-		{
-			"filename": "image"
-		},
-		{
-			"url": "https://cdn.rawgit.com/jwass91/mavo-recipe-book/e8830df7af0d5e9499aa44b4931176bc769946a0/files/Screen%20Shot%202018-06-27%20at%2010.39.59%20AM.png",
-			"filename": "img"
-		},
-		{}
-	]
+	"t": []
 }
