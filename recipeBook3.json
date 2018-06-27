@@ -11,6 +11,10 @@
 		{
 			"url": "https://cdn.rawgit.com/jwass91/mavo-recipe-book/f827e813df7d5200cb6220ed6f85d964e6a09fe3/files/cal.csv",
 			"filename": "csv"
+		},
+		{
+			"url": "https://cdn.rawgit.com/jwass91/mavo-recipe-book/f2ee9ef91216590b1d740561adcdca0693f2b18c/files/“Money%20is%20life”.pdf",
+			"filename": "test"
 		}
 	]
 }
